@@ -6,3 +6,6 @@ dist/
 playwright-report/
 test-results/
 *.log
+
+# Local Netlify folder
+.netlify

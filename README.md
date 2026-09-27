@@ -114,3 +114,5 @@ tests/                    domain, release-boundary and browser checks
 SharePoint publishing, client content, approved brand assets and production hosting
 integration are future project work. The Azure demo uses static files; it does
 not claim to implement those integrations or provide a reviewed evidence base.
+
+<!-- Repo renamed 2026-09-27; verifying continuous deployment still works. -->
